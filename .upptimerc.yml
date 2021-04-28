@@ -10,7 +10,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: schuh-frank.fpits.xyz
-  # baseUrl: /your-repo-name
+  baseUrl: /upptime_schuh-frank
   logoUrl: https://www.schuh-frank.de/media/image/f0/85/5a/logo-schuh-frankRDLTm1EyvdUwo.jpg
   name: Upptime Schuh-Frank
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
