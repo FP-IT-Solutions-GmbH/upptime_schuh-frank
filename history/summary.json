@@ -4,9 +4,9 @@
     "url": "https://www.schuh-frank.de/",
     "icon": "https://favicons.githubusercontent.com/www.schuh-frank.de",
     "slug": "schuh-frank-webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1113,
     "timeMonth": 1044,
     "timeYear": 1095,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-05": 0
+    }
   }
 ]
